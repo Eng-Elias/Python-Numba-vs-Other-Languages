@@ -28,6 +28,14 @@ Contributions to this repository are welcome! If you have additional algorithms,
 
 The goal of this repository is to demonstrate the relative performance between Python with Numba and other languages for specific tasks. The results may vary based on the complexity of the code, hardware, and compiler optimizations. Always consider the specific requirements and characteristics of your projects when choosing the best programming language for a given task.
 
+## Article
+
+For a more details, you can read the full article:
+
+On Medium: ["Numba: Unleashing the Power of Python for High-Performance Computing"](https://medium.com/@eng_elias/numba-unleashing-the-power-of-python-for-high-performance-computing-fdec2c778b10)
+
+On My Blog: ["Numba: Unleashing the Power of Python for High-Performance Computing"](https://engelias.website/blog/numba-unleashing-the-power-of-python-for-high-performance-computing/)
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
